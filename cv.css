@@ -1,0 +1,45 @@
+h2 {
+    text-decoration: underline;
+    color: rgb(236, 12, 31);
+}
+
+#cv{
+    display: flex;
+    height: 500vh; ;
+    width: 70%;
+    margin-top: 2vh;
+    margin-right: 100%;
+}
+
+.ola{
+    background-color: lightsteelblue;
+    height: 250%;
+    width: 50%;
+    
+}
+.o{
+    background-color:none;
+    height: 50%;
+    width: 200% ;
+    margin-right: 50%;
+    display: flex;
+    flex-direction: column
+    
+}
+p{
+
+    text-align: left;
+
+}
+
+header {
+    background-color: rgb(204, 210, 216);
+    text-align: left;
+    width: 100%;
+    margin-top: 20px;
+    line-height: 5%;
+
+    height: 5%;
+
+}
+
