@@ -1,0 +1,14 @@
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+
+    .gj-datepicker-md [role="right-icon"] {
+        position: absolute;
+        right: 32px;
+        top: 0px;
+        font-size: 14px;
+        color: #919191;
+        margin-right: 93px;
+        top: 16px;
+    }
+}
